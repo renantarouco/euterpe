@@ -25,4 +25,4 @@ The server also allows to be configured with some rules like:
 
 - maximum players allowed in a session, e.g.: 5 players;
 - maximum distance between players fragments, e.g.: a player cannot be more than
-  3 fragments ahead from any other player in the session
+  3 fragments ahead from any other player in the session.
